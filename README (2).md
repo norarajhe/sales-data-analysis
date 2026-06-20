@@ -47,15 +47,15 @@
 
 عرض تفاعلي لنفس البيانات يسمح بالتصفية والاستكشاف.
 
-![Power BI Dashboard](images/dashboard_1.png)
+<img width="960" height="600" alt="لقطة شاشة 2026-06-20 230341" src="https://github.com/user-attachments/assets/41536357-62c1-4247-8201-5fcebb137f40" />
+<img width="960" height="600" alt="لقطة شاشة 2026-06-20 230438" src="https://github.com/user-attachments/assets/ffffb8c7-7fc3-42ac-a631-688009859655" />
+<img width="960" height="600" alt="لقطة شاشة 2026-06-20 230546" src="https://github.com/user-attachments/assets/ef199887-75b0-42a5-bc88-9c1b9997a0f6" />
+<img width="767" height="431" alt="لقطة شاشة 2026-06-20 230809" src="https://github.com/user-attachments/assets/dac50543-a861-43a2-8500-7cd1d358135e" />
 
-<!-- لو عندك صفحات إضافية في الداش بورد، أضف صورها هنا:
-![صفحة ثانية](images/dashboard_2.png)
--->
 
-**رابط الداش بورد الحي:** [اضغط هنا](ضع_الرابط_هنا)
 
-<!-- >
+
+
 
 ---
 
