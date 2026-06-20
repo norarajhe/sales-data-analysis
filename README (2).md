@@ -45,7 +45,7 @@
 
 ## الداش بورد (Power BI)
 
-عرض تفاعلي لنفس البيانات يسمح بالتصفية والاستكشاف.
+
 
 <img width="960" height="600" alt="لقطة شاشة 2026-06-20 230341" src="https://github.com/user-attachments/assets/41536357-62c1-4247-8201-5fcebb137f40" />
 <img width="960" height="600" alt="لقطة شاشة 2026-06-20 230438" src="https://github.com/user-attachments/assets/ffffb8c7-7fc3-42ac-a631-688009859655" />
