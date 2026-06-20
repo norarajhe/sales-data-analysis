@@ -28,16 +28,18 @@
 
 ## تحليل Python
 
-> عناوين الرسوم بالإنجليزي لأن matplotlib يكسّر الحروف العربية داخل الرسم.
-
+>  
 ### المبيعات حسب فئة المنتج
-![Revenue by Product Line](images/plot1_products.png)
+<img width="959" height="500" alt="لقطة شاشة 2026-06-20 162459" src="https://github.com/user-attachments/assets/c023e570-ba91-4f88-b090-7b3c434db9d6" />
+
 
 ### أكبر الأسواق
-![Top Countries](images/plot2_countries.png)
+<img width="956" height="503" alt="لقطة شاشة 2026-06-20 162528" src="https://github.com/user-attachments/assets/640a29ab-b7ae-4160-8ec4-813138142df8" />
+
 
 ### المبيعات عبر الأشهر
-![Monthly Sales](images/plot3_monthly.png)
+<img width="943" height="500" alt="لقطة شاشة 2026-06-20 162606" src="https://github.com/user-attachments/assets/58b147a8-457a-4049-912b-8778ad9afb85" />
+
 
 ---
 
